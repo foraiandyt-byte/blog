@@ -3,7 +3,7 @@ import streamlit as st
 st.header("poetican by harris")
 st.subheader("top poems")
 
-st.body("looking at the sky,
+st.text("looking at the sky,
          makes anyone cry.
          
          in a realm we live,
